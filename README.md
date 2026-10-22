@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7d140e&height=230&section=header&text=DEFENSORES%20DA%20MURALHA&fontSize=44&fontColor=ffe3a6&fontAlign=50&fontAlignY=38&desc=O%20Desafio%20Matem%C3%A1tico&descSize=20&descAlignY=60&descColor=f3e4c4&animation=fadeIn" alt="Defensores da Muralha: O Desafio Matemático" width="100%">
 
-<a href="https://Vitor-H-Ferreira.github.io/defensores-da-muralha/">
+<a href="https://vitor-h-ferreira.github.io/defensores-da-muralha/">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1200&color=E6AD34&center=true&vCenter=true&width=640&height=50&lines=Proteja+a+Grande+Muralha+da+China;Abra+os+port%C3%B5es+resolvendo+desafios;Acerte+3+seguidas+e+ganhe+b%C3%B4nus;Chegue+%C3%A0+torre+final" alt="Proteja a Grande Muralha da China">
 </a>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-## [🏮 ▶ JOGAR AGORA 🏮](https://Vitor-H-Ferreira.github.io/defensores-da-muralha/)
+## [🏮 ▶ JOGAR AGORA 🏮](https://vitor-h-ferreira.github.io/defensores-da-muralha/)
 
 </div>
 
